@@ -36,33 +36,33 @@ This project was completed as part of Angela Yu's iOS Development Course, focusi
 - User interface design and interaction
 
 ---
-
 ## 🇹🇷 Türkçe
 
-Günlük görevlerinizi takip etmenizi sağlayan basit ve etkili bir iOS Todo list uygulaması. Bu proje, Angela Yu'nun iOS Geliştirme Kursu takip edilerek oluşturulmuştur.
-
+iOS için basit ve verimli bir Todo list uygulaması, tüm görevlerinizi takip etmenize yardımcı olur. Bu proje, Angela Yu'nun iOS Geliştirme Kursu takip edilerek uygulanmıştır.
 ### Özellikler
 
-- ✏️ Yeni görev ekleme
+- ✏️ Yeni görevler oluşturma
 - ✓ Görevleri tamamlandı olarak işaretleme
-- 🗑️ Kaydırarak görev silme
-- 💾 PropertyList ile kalıcı veri depolama
+- 🗑️ Kaydırma hareketiyle görevleri silme
+- 💾 PropertyList kullanarak kalıcı veri depolama
 
-### Teknik Detaylar
+### Uygulama Detayları
 
-Projede kullanılan teknolojiler:
-- Swift programlama dili
-- UIKit framework
-- MVC mimari yapısı
-- Veri depolama için PropertyList
-- Liste görünümü için UITableView
-- Yeni görev ekleme için UIAlertController
+Bu proje şu teknolojiler kullanılarak geliştirilmiştir:
+- Swift
+- UIKit
+- MVC Mimarisine uygun yapı
+- Veri kalıcılığı için PropertyList
+- Liste görüntüleme için UITableView
+- Yeni görev eklemek için UIAlertController
+
+### Öğrenme Süreci
+
+Bu proje, Angela Yu'nun iOS Geliştirme Kursu kapsamında tamamlanmıştır ve şu konulara odaklanılmıştır:
+- iOS uygulama geliştirme temelleri
+- UITableView ile çalışma
+- Veri kalıcılığını uygulama
+- iOS tasarım kalıplarını anlama
+- Kullanıcı arayüzü tasarımı ve etkileşimleri
 
 ---
-
-## Acknowledgments / Teşekkürler
-
-- Angela Yu and the App Brewery team for the excellent course and guidance
-- The London App Brewery's Complete iOS Development Bootcamp
-
->This project is part of The App Brewery's Complete iOS Development Bootcamp. Check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
